@@ -1,0 +1,39 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+input{
+width: 100%;
+margin-top: 17px;
+height: 20px;
+padding: 14px;
+border-radius: 8px;
+border: 1px solid rgba(248, 247, 247, 0.904);
+}
+form{
+    width: 65%;
+    border: 1px solid yellow;
+    background-color: yellow;
+    padding: 35px;
+    margin: auto;
+}
+h2{
+   font-size: 120%;
+   padding: 10px;
+
+}
+h3{
+    font-size: 80%;
+}
+button{
+margin-top: 10px;
+background-color: black;
+color: yellow;
+width: 100%;
+padding: 8px;
+border-radius: 5px;
+font-size: 25px;
+font-weight: 700;
+}
